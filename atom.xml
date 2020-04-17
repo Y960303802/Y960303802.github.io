@@ -67,9 +67,9 @@
       <category term="JAVA" scheme="https://www.yinpeng.fun/categories/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/JAVA/"/>
     
     
-      <category term="JAVA" scheme="https://www.yinpeng.fun/tags/JAVA/"/>
-    
       <category term="网络编程" scheme="https://www.yinpeng.fun/tags/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/"/>
+    
+      <category term="JAVA" scheme="https://www.yinpeng.fun/tags/JAVA/"/>
     
   </entry>
   
@@ -97,9 +97,9 @@
       <category term="JAVA" scheme="https://www.yinpeng.fun/categories/JUC%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/JAVA/"/>
     
     
-      <category term="JUC并发编程" scheme="https://www.yinpeng.fun/tags/JUC%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/"/>
-    
       <category term="JAVA" scheme="https://www.yinpeng.fun/tags/JAVA/"/>
+    
+      <category term="JUC并发编程" scheme="https://www.yinpeng.fun/tags/JUC%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/"/>
     
   </entry>
   
