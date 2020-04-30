@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.yinpeng.fun/2020/04/25/SpringMVC/</loc>
+    <loc>https://www.yinpeng.fun/2020/04/30/Lock%E9%94%81/</loc>
     
-    <lastmod>2020-04-29T06:45:38.609Z</lastmod>
+    <lastmod>2020-04-30T03:39:57.438Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.yinpeng.fun/2020/04/29/vue%E5%AD%A6%E4%B9%A0-%E4%B8%80/</loc>
     
-    <lastmod>2020-04-29T06:36:29.001Z</lastmod>
+    <lastmod>2020-04-30T03:34:32.141Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.yinpeng.fun/2020/04/25/SpringMVC/</loc>
+    
+    <lastmod>2020-04-29T06:45:38.609Z</lastmod>
     
   </url>
   
