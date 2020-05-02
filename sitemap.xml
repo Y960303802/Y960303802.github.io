@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.yinpeng.fun/2020/04/20/Mybatis/</loc>
+    
+    <lastmod>2020-05-02T12:29:46.719Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.yinpeng.fun/2020/04/25/SpringMVC/</loc>
+    
+    <lastmod>2020-05-02T12:29:22.218Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.yinpeng.fun/2020/04/20/Spring/</loc>
+    
+    <lastmod>2020-05-02T12:28:52.672Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.yinpeng.fun/2020/05/02/Java%E5%9F%BA%E7%A1%80/</loc>
+    
+    <lastmod>2020-05-02T12:27:57.268Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.yinpeng.fun/2020/05/02/%E7%BA%BF%E7%A8%8B%E6%B1%A0/</loc>
     
     <lastmod>2020-05-02T07:41:33.047Z</lastmod>
@@ -79,30 +107,9 @@
   </url>
   
   <url>
-    <loc>https://www.yinpeng.fun/2020/04/25/SpringMVC/</loc>
-    
-    <lastmod>2020-04-29T06:45:38.609Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.yinpeng.fun/2020/04/20/Spring/</loc>
-    
-    <lastmod>2020-04-25T09:40:47.933Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.yinpeng.fun/2020/04/25/MarkDown%E8%AF%AD%E6%B3%95/</loc>
     
     <lastmod>2020-04-25T07:16:09.500Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.yinpeng.fun/2020/04/20/Mybatis/</loc>
-    
-    <lastmod>2020-04-25T07:07:46.106Z</lastmod>
     
   </url>
   
